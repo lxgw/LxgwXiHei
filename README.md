@@ -4,7 +4,7 @@ A Chinese font derived from IPAex Gothic. 一款衍生于 [IPAex 黑体](https:/
 ## 项目简介
 2009 年，日本 [IPA](http://www.ipa.go.jp/) 以符合 Open Source Initiative 开源定义的「IPA 开放字型授权条款」，发布两款「IPA 字体」，包括 [「IPA 明体（IPA 明朝）」及「IPA 黑体（IPA ゴシック）」](https://ipafont.ipa.go.jp/old/ipafont/download.html)。字体衍生自林隆男（Takao Hayashi）所设计的两款字体：[TypeBank 公司](https://www.typebank.co.jp/)的「TB 明体」和「TB 黑体」。字体包含的日本常用的字符，供日本用户使用。
 
-后来，经过多年的持续修补及修订，「IPA明体」扩充成[「IPAex明体」(https://ipafont.ipa.go.jp)]、[「IPAmj明体」](http://mojikiban.ipa.go.jp/)。目前由「IPAmj明体」衍生的中文字体有很多，如「IPA 明体补字」、[「南廱明体」](https://www.maoken.com/freefonts/2144.html)、[「一点明体」](https://github.com/ichitenfont/I.Ming) 等，以适合中文使用环境。其中以「传承字型」为主的「一点明体」已将 常用繁体字、闽南语用字、客家语用字、粤语用字和 GB 2312 范围内的简化字补全。
+后来，经过多年的持续修补及修订，「IPA明体」扩充成 [「IPAex明体」](https://ipafont.ipa.go.jp) 、 [「IPAmj明体」](http://mojikiban.ipa.go.jp/) 。目前由「IPAmj明体」衍生的中文字体有很多，如「IPA 明体补字」、[「南廱明体」](https://www.maoken.com/freefonts/2144.html)、[「一点明体」](https://github.com/ichitenfont/I.Ming) 等，以适合中文使用环境。其中以「传承字型」为主的「一点明体」已将 常用繁体字、闽南语用字、客家语用字、粤语用字和 GB 2312 范围内的简化字补全。
 
 而黑体部分，官方只扩充到了「IPAex黑体」。「IPAex黑体」的字数虽然已经满足日本人的需求，但要让它适用于中文，还有若干汉字要补全。而目前由「IPAex黑体」衍生的中文字体很少，而且缺少大量简体字和一部分常用繁体字。鉴于此，本人开始了这个计划，将「IPAex黑体」补全常用简繁体汉字，使其适用于中文使用环境。
 
