@@ -10,6 +10,7 @@ A Chinese font derived from IPAex Gothic. 一款衍生于 [IPAex 黑体](https:/
 
 ## 字体概况
 本字体是 **「IPAex黑体」** 的中文化改造，在原「IPAex黑体」的基础上，利用原有的部件和笔形，对缺少的汉字进行补足。由于受到「一点明体」的影响，结合字体原有的风格，该字体做成了旧字形（其中一部分部件参考了[「传承字形部件检校表」](https://github.com/ichitenfont/inheritedglyphs)）。目前已补全原字体中有对应繁体字的简体字、 GB 2312 范围内的所有汉字 *（简体为主，6763 个）* 、GB 12345 范围内的所有汉字 *（繁体为主，6866 个）* 、台湾教育部门规定的 4808 个常用汉字，以满足繁简中文的一般使用需要。
+
 由于该字体显示清晰，适合屏幕显示，故取名 **「霞鹜晰黑（LXGW Clear Gothic）」** 。西文部分采用了 **[「GenEi Univer Sans」](https://okoneya.jp/font/download.html)** ，中文标点部分采用 **[「思源黑体」](https://github.com/adobe-fonts/source-han-sans/)**  *（仅 SIL-IPA 版）* 。「GenEi Univer Sans」和「思源黑体」基于 SIL Open Font License 1.1 授权条款发布。
 
 ## 更新日志
