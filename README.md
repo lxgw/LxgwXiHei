@@ -9,7 +9,7 @@ A Chinese font derived from IPAex Gothic. 一款衍生于 [IPAex 黑体](https:/
 而黑体部分，官方只扩充到了「IPAex黑体」。「IPAex黑体」的字数虽然已经满足日本人的需求，但要让它适用于中文，还有若干汉字要补全。而目前由「IPAex黑体」衍生的中文字体很少，而且缺少大量简体字和一部分常用繁体字。鉴于此，本人开始了这个计划，将「IPAex黑体」补全常用简繁体汉字，使其适用于中文使用环境。
 
 ## 字体概况
-本字体是 **「IPAex黑体」** 的中文化改造，在原「IPAex黑体」的基础上，利用原有的部件和笔形，对缺少的汉字进行补足。由于受到「一点明体」的影响，结合字体原有的风格，该字体做成了旧字形（其中一部分部件参考了[「传承字形部件检校表」](https://github.com/ichitenfont/inheritedglyphs)）。目前已补全原字体中有对应繁体字的简体字、 GB 2312 范围内的所有汉字*（简体为主，6763 个）*、GB 12345 范围内的所有汉字*（繁体为主，6866 个）*、台湾教育部门规定的 4808 个常用汉字，以满足繁简中文的一般使用需要。
+本字体是 **「IPAex黑体」** 的中文化改造，在原「IPAex黑体」的基础上，利用原有的部件和笔形，对缺少的汉字进行补足。由于受到「一点明体」的影响，结合字体原有的风格，该字体做成了旧字形（其中一部分部件参考了[「传承字形部件检校表」](https://github.com/ichitenfont/inheritedglyphs)）。目前已补全原字体中有对应繁体字的简体字、 GB 2312 范围内的所有汉字 *（简体为主，6763 个）* 、GB 12345 范围内的所有汉字 *（繁体为主，6866 个）* 、台湾教育部门规定的 4808 个常用汉字，以满足繁简中文的一般使用需要。
 由于该字体显示清晰，适合屏幕显示，故取名 **「霞鹜晰黑（LXGW Clear Gothic）」** 。西文部分采用了 **[「GenEi Univer Sans」](https://okoneya.jp/font/download.html)** ，中文标点部分采用 **[「思源黑体」](https://github.com/adobe-fonts/source-han-sans/)**  *（仅 SIL-IPA 版）* 。「GenEi Univer Sans」和「思源黑体」基于 SIL Open Font License 1.1 授权条款发布。
 
 ## 更新日志
@@ -35,8 +35,8 @@ A Chinese font derived from IPAex Gothic. 一款衍生于 [IPAex 黑体](https:/
 
 ## 版权信息
 
-- 本字体是基于 (IPA Font License 1.0)[https://opensource.org/licenses/IPA/] 改造的 IPA 所开发并发布的 [IPAex黑体](https://ipafont.ipa.go.jp) 开源项目。
-- 本字体基于 (IPA Font License 1.0)[https://opensource.org/licenses/IPA/] 授权条款免费公开，您可以：
+- 本字体是基于 [IPA Font License 1.0](https://opensource.org/licenses/IPA/) 改造的 IPA 所开发并发布的 [IPAex黑体](https://ipafont.ipa.go.jp) 开源项目。
+- 本字体基于 [IPA Font License 1.0](https://opensource.org/licenses/IPA/) 授权条款免费公开，您可以：
   - 免费使用，包括商用，无需付费、告知或标明原作者；
   - 自由分享字体文件，并将其安装在任何软件/设备中；
   - 在此基础上进行修改或二次创作，二次修改的作品需要按照 IPA Font License 1.0 的规定释出。
