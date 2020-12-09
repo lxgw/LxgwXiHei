@@ -12,12 +12,6 @@ A Chinese font derived from IPAex Gothic. 一款衍生于 [IPAex 黑体](https:/
 本字体是 **「IPAex黑体」** 的中文化改造，在原「IPAex黑体」的基础上，利用原有的部件和笔形，对缺少的汉字进行补足。由于受到「一点明体」的影响，结合字体原有的风格，该字体做成了旧字形（其中一部分部件参考了[「传承字形部件检校表」](https://github.com/ichitenfont/inheritedglyphs)）。目前已补全原字体中有对应繁体字的简体字、 GB 2312 范围内的所有汉字*（简体为主，6763 个）*、GB 12345 范围内的所有汉字*（繁体为主，6866 个）*、台湾教育部门规定的 4808 个常用汉字，以满足繁简中文的一般使用需要。
 由于该字体显示清晰，适合屏幕显示，故取名**「霞鹜晰黑（LXGW Clear Gothic）」**。西文部分采用了 **[「GenEi Univer Sans」](https://okoneya.jp/font/download.html)** ，中文标点部分采用 **[「思源黑体」](https://github.com/adobe-fonts/source-han-sans/)**  *（仅限 SIL-IPA 版）* 。「GenEi Univer Sans」和「思源黑体」基于 SIL Open Font License 1.1 授权条款发布。
 
-
-## 文件夹说明
-- **「TTF(SIL-IPA)」文件夹：** 存放的字体文件替换了西文字母数字部分和中文标点符号部分，混合了两种不同授权方式的字体。该文件夹包含两个字重的字体：Regular、Book。Regular 为原字体的字重，Book 比 Regular 粗一些，更适合屏幕阅读。
-- **「TTF(IPA)」文件夹：** 存放的字体文件未替换西文和中文标点，保留 IPA 黑体原有的西文和中文标点设计，授权方式仅为 IPA 一种。该文件夹仅包含 Regular 字重。
-- **SIL-IPA 版和 IPA 版不可共存，请按需要进行下载。**
-
 ## 更新日志
 
 [点击此处](https://github.com/lxgw/LxgwClearGothic/blob/master/history.md) 查看更新日志。
@@ -27,6 +21,11 @@ A Chinese font derived from IPAex Gothic. 一款衍生于 [IPAex 黑体](https:/
 
 ## 字体下载
 待完善。
+
+## 文件夹说明
+- **「TTF(SIL-IPA)」文件夹：** 存放的字体文件替换了西文字母数字部分和中文标点符号部分，混合了两种不同授权方式的字体。该文件夹包含两个字重的字体：Regular、Book。Regular 为原字体的字重，Book 比 Regular 粗一些，更适合屏幕阅读。
+- **「TTF(IPA)」文件夹：** 存放的字体文件未替换西文和中文标点，保留 IPA 黑体原有的西文和中文标点设计，授权方式仅为 IPA 一种。该文件夹仅包含 Regular 字重。
+- **SIL-IPA 版和 IPA 版不可共存，请按需要进行下载。**
 
 ## 注意事项
 1. 本人并不是专业的设计师，并未考虑设计美感，所以看起来可能略丑，补进去的字与原版可能略有违和感；此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬。但聊胜于无。欢迎大家通过 Issues 反馈。
