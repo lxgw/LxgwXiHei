@@ -21,7 +21,7 @@ A Chinese font derived from IPAex Gothic. 一款衍生于 [IPAex 黑体](https:/
 待完善。
 
 ## 字体下载
-待完善。
+1. 点击【Clone or download】->【Download ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。
 
 ## 文件夹说明
 - **「TTF(SIL-IPA)」文件夹：** 存放的字体文件替换了西文字母数字部分和中文标点符号部分，混合了两种不同授权方式的字体。该文件夹包含两个字重的字体：Regular、Book。Regular 为原字体的字重，Book 比 Regular 粗一些，更适合屏幕阅读。
