@@ -24,9 +24,8 @@ A Chinese font derived from IPAex Gothic. 一款衍生于 [IPAex 黑体](https:/
 ![reMCUP.png](https://s3.ax1x.com/2020/12/13/reMCUP.png)
 ![reljvF.png](https://s3.ax1x.com/2020/12/13/reljvF.png)
 ![reM9Et.png](https://s3.ax1x.com/2020/12/13/reM9Et.png)
-### 新造字形与原有字形比对
-![reNb11.png](https://s3.ax1x.com/2020/12/13/reNb11.png)
-![reNHpR.png](https://s3.ax1x.com/2020/12/13/reNHpR.png)
+
+[新造字形与原有字形比对](https://github.com/lxgw/LxgwClearGothic/blob/main/Comparison.md)
 
 ## 字体下载
 1. 点击【Clone or download】->【Download ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。
