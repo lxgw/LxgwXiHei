@@ -56,6 +56,7 @@ A Chinese font derived from IPAex Gothic. 一款衍生于 [IPAex 黑体](https:/
 - [思源黑体 / Source Han Sans](https://github.com/adobe-fonts/source-han-sans) *by Adobe*
 - [Hind](https://github.com/itfoundry/hind) *by Indian Type Foundry*
 - [GenEi Univer Sans](https://okoneya.jp/font/download.html#dl-geus) *by Okoneya（御琥祢屋）*
+- [传承字形部件检校表](https://github.com/ichitenfont/inheritedglyphs) *by Ichiten Font（一点字坊）*
 
 ## 其它项目
 ### 975 系列
