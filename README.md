@@ -21,6 +21,7 @@ A Chinese font derived from IPAex Gothic. 一款衍生于 [IPAex 黑体](https:/
 [![reQCL9.png](https://s3.ax1x.com/2020/12/13/reQCL9.png)](https://imgchr.com/i/reQCL9)
 [![reMSHI.png](https://s3.ax1x.com/2020/12/13/reMSHI.png)](https://imgchr.com/i/reMSHI)
 [![reMCUP.png](https://s3.ax1x.com/2020/12/13/reMCUP.png)](https://imgchr.com/i/reMCUP)
+[![reljvF.png](https://s3.ax1x.com/2020/12/13/reljvF.png)](https://imgchr.com/i/reljvF)
 [![reM9Et.png](https://s3.ax1x.com/2020/12/13/reM9Et.png)](https://imgchr.com/i/reM9Et)
 
 ## 字体下载
