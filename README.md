@@ -44,6 +44,7 @@ A Chinese font derived from IPAex Gothic. 一款衍生于 [IPAex 黑体](https:/
   - 免费使用，包括商用，无需付费、告知或标明原作者；
   - 自由分享字体文件，并将其安装在任何软件/设备中；
   - 在此基础上进行修改或二次创作，二次修改的作品需要按照 IPA Font License 1.0 的规定释出。
+- 但是，您不可以将字体文件倒卖兜售。
   
 ## 鸣谢
 - TB Gothic *by Takao Hayashi*
