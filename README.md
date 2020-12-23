@@ -14,8 +14,9 @@ A Chinese font derived from IPAex Gothic. 一款衍生于 [IPAex 黑体](https:/
 由于该字体显示清晰，适合屏幕，故取名 **「晰黑」** 。包含两个字重：Regular、Book。Regular 为原字体的字重，Book 比 Regular 粗一些，更适合屏幕阅读。
 
 目前提供两个版本：**纯 IPA 版** 和 **SIL&IPA 混合版**。  
-- 纯 IPA 版未替换西文和中文标点，保留 IPA 黑体原有的西文和中文标点设计，授权方式仅为 IPA 一种。 *（保存在「TTF(IPA)」文件夹）*
-- SIL&IPA 混合版西文部分采用了 **[「GenEi Univer Sans」](https://okoneya.jp/font/download.html)** ，中文标点部分采用 **[「思源黑体」](https://github.com/adobe-fonts/source-han-sans/)**  *（保存在「TTF(SIL-IPA)」文件夹）* 。该混合字体的 SIL OFL 部分由「GenEi Univer Sans」和「思源黑体」衍生，基于 SIL Open Font License 1.1 授权条款发布。 *（以 TTF 格式保存到「SIL_part」文件夹，可通过字体编辑软件查看。）*
+- **纯 IPA 版** 未替换西文和中文标点，保留 IPA 黑体原有的西文和中文标点设计，授权方式仅为 IPA 一种。 *（保存在「TTF(IPA)」文件夹）*
+- **SIL&IPA 混合版** 西文部分采用了 **[「GenEi Univer Sans」](https://okoneya.jp/font/download.html)** ，中文标点部分采用 **[「思源黑体」](https://github.com/adobe-fonts/source-han-sans/)**  *（保存在「TTF(SIL-IPA)」文件夹）* 。  
+该混合字体的 SIL OFL 部分 **（即西文和中文标点符号部分）** 由「GenEi Univer Sans」和「思源黑体」衍生，基于 [SIL Open Font License 1.1](http://scripts.sil.org/OFL) 授权条款发布。 *（以 TTF 格式保存到「TTF(SIL part)」文件夹，仅包含西文和中文标点符号，可通过字体编辑软件查看。）*
 
 ## 更新日志
 
