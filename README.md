@@ -13,7 +13,9 @@ A Chinese font derived from IPAex Gothic. 一款衍生于 [IPAex 黑体](https:/
 
 由于该字体显示清晰，适合屏幕，故取名 **「晰黑」** 。包含两个字重：Regular、Book。Regular 为原字体的字重，Book 比 Regular 粗一些，更适合屏幕阅读。
 
-目前提供西文部分采用了 **[「GenEi Univer Sans」](https://okoneya.jp/font/download.html)** ，中文标点部分采用 **[「思源黑体」](https://github.com/adobe-fonts/source-han-sans/)**  *（仅 SIL-IPA 版）* 。「GenEi Univer Sans」和「思源黑体」基于 SIL Open Font License 1.1 授权条款发布。
+目前提供两个版本：**纯 IPA 版** 和 **SIL&IPA 混合版**。  
+- 纯 IPA 版未替换西文和中文标点，保留 IPA 黑体原有的西文和中文标点设计，授权方式仅为 IPA 一种。 *（保存在「TTF(IPA)」文件夹）*
+- SIL&IPA 混合版西文部分采用了 **[「GenEi Univer Sans」](https://okoneya.jp/font/download.html)** ，中文标点部分采用 **[「思源黑体」](https://github.com/adobe-fonts/source-han-sans/)**  *（保存在「TTF(SIL-IPA)」文件夹）* 。该混合字体的 SIL OFL 部分由「GenEi Univer Sans」和「思源黑体」衍生，基于 SIL Open Font License 1.1 授权条款发布。 *（以 TTF 格式保存到「SIL_part」文件夹，可通过字体编辑软件查看。）*
 
 ## 更新日志
 
@@ -31,11 +33,6 @@ A Chinese font derived from IPAex Gothic. 一款衍生于 [IPAex 黑体](https:/
 
 ## 字体下载
 1. 点击【Clone or download】->【Download ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。
-
-## 文件夹说明
-- **「TTF(SIL-IPA)」文件夹：** 存放的字体文件替换了西文字母数字部分和中文标点符号部分，混合了两种不同授权方式的字体。该文件夹包含两个字重的字体：Regular、Book。Regular 为原字体的字重，Book 比 Regular 粗一些，更适合屏幕阅读。**推荐**
-- **「TTF(IPA)」文件夹：** 存放的字体文件未替换西文和中文标点，保留 IPA 黑体原有的西文和中文标点设计，授权方式仅为 IPA 一种。该文件夹仅包含 Regular 字重。
-- **SIL-IPA 版和 IPA 版不可共存，请按需要进行下载。**
 
 ## 注意事项
 1. 本人并不是专业的设计师，并未考虑设计美感，所以看起来可能略丑，补进去的字与原版可能略有违和感；此外由于时间仓促，并没有多余的时间细修，部分字的部件拼接会很生硬。但聊胜于无。欢迎大家通过 Issues 反馈。
