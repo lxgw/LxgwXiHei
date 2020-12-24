@@ -18,6 +18,7 @@ A Chinese font derived from IPAex Gothic. 一款衍生于 [IPAex 黑体](https:/
 - **SIL&IPA 混合版** 西文部分采用了 **[「GenEi Univer Sans」](https://okoneya.jp/font/download.html)** ，中文标点部分采用 **[「思源黑体」](https://github.com/adobe-fonts/source-han-sans/)**  *（保存在「TTF(SIL-IPA)」文件夹）* 。  
 该混合字体的 SIL OFL 部分 **（即西文和中文标点符号部分）** 由「GenEi Univer Sans」和「思源黑体」衍生，基于 [SIL Open Font License 1.1](http://scripts.sil.org/OFL) 授权条款发布。 *（以 TTF 格式保存到「TTF(SIL part)」文件夹，仅包含西文和中文标点符号，可通过字体编辑软件查看。）*
 - **两者不能共存，请按需要下载。**
+![r2Kc5t.png](https://s3.ax1x.com/2020/12/24/r2Kc5t.png)
 
 ## 更新日志
 
