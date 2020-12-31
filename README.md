@@ -66,6 +66,7 @@ A Chinese font derived from IPAex Gothic. 一款衍生于 [IPAex 黑体](https:/
 - [975 圆体 / 975 Maru](https://github.com/lxgw/975maru)
 - [975 黑体 / 975 Gothic](https://github.com/lxgw/975gothic)
 ### 日系字体中文化
+- [霞鹜新晰黑 / Lxgw New Clear Gothic](https://github.com/lxgw/LxgwNewClearGothic)
 - [小赖字体 / Xiaolai](https://github.com/lxgw/kose-font)
 - [悠哉字体 / Yozai](https://github.com/lxgw/yozai-font)
 
