@@ -19,7 +19,7 @@ A Chinese font derived from IPAex Gothic. 一款衍生于 [IPAex 黑体](https:/
 
 ## 更新日志
 
-[点击此处](https://github.com/lxgw/LxgwClearGothic/blob/master/History.md) 查看更新日志。
+[点击此处](https://github.com/lxgw/LxgwClearGothic/blob/main/History.md) 查看更新日志。
 
 ## 字体预览
 ### 概览
