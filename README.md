@@ -23,10 +23,11 @@ A Chinese font derived from IPAex Gothic. 一款衍生于 [IPAex 黑体](https:/
 
 ## 字体预览
 ### 概览
-![reQCL9.png](https://s3.ax1x.com/2020/12/13/reQCL9.png)
-![reMSHI.png](https://s3.ax1x.com/2020/12/13/reMSHI.png)
-![reMCUP.png](https://s3.ax1x.com/2020/12/13/reMCUP.png)
-![reljvF.png](https://s3.ax1x.com/2020/12/13/reljvF.png)
+![saiTkd.png](https://s3.ax1x.com/2021/01/14/saiTkd.png)
+![saiL1P.png](https://s3.ax1x.com/2021/01/14/saiL1P.png)
+![saiqpt.png](https://s3.ax1x.com/2021/01/14/saiqpt.png)
+![saiHfI.png](https://s3.ax1x.com/2021/01/14/saiHfI.png)
+![sai7tA.png](https://s3.ax1x.com/2021/01/14/sai7tA.png)
 
 ## 字体下载
 1. 点击【Clone or download】->【Download ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。
