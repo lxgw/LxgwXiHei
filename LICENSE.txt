@@ -1,23 +1,3 @@
-[IPAexGothic]
-Copyright (c) Information-technology Promotion Agency, Japan (IPA), 2003-2019. 
-The CJK ideograph and kana part of this project was derived from IPAexGothic.
-
-[GenEi Univer Sans]
-Copyright (c) 2018, o_tamon (https://okoneya.jp/font/), with Reserved Font Name 'GenEi'. 
-Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com) 
-Copyright (c) 2014, 2015 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. 
-Copyright 2015 Google Inc. All Rights Reserved. 
-Under SIL Open Font License (http://scripts.sil.org/OFL).
-The Western language part of this project was derived from GenEi Univer Sans.
-
-[Source Han Sans]
-Copyright © 2014, 2015 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. under SIL Open Font License (http://scripts.sil.org/OFL). 
-The CJK punctuation part of this project was derived from Source Han Sans.
-
-[LXGW Clear Gothic]
-Copyright (c) 2020 LXGW. The LXGW Clear Gothic is redistributed under IPA Font License. (https://opensource.org/licenses/IPA/)
-
-
 
 IPAフォントライセンスV1.0
 許諾者は、この使用許諾（以下「本契約」といいます。）に定める条件の下で、許諾プログラム（1条に定義するところによります。）を提供します。受領者（1条に定義するところによります。）が、許諾プログラムを使用し、複製し、または頒布する行為、その他、本契約に定める権利の利用を行った場合、受領者は本契約に同意したものと見なします。
@@ -67,7 +47,6 @@ IPAフォントライセンスV1.0
 第５条　準拠法
 IPAは、本契約の変更バージョンまたは新しいバージョンを公表することができます。その場合には、受領者は、許諾プログラムまたは派生プログラムの使用、複製その他の利用または再配布にあたり、本契約または変更後の契約のいずれかを選択することができます。その他、上記に記載されていない条項に関しては日本の著作権法および関連法規に従うものとします。
 本契約は、日本法に基づき解釈されます。
-TOP
 
 IPA FONT LICENSE AGREEMENT V1.0
 The Licensor provides the Licensed Program (as defined in Article 1 below) under the terms of this license agreement (“Agreement”). Any use, reproduction or distribution of the Licensed Program, or any
