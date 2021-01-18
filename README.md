@@ -1,4 +1,4 @@
-# LXGW Clear Gothic / 霞鹜晰黑 / 霞鶩晰黑 / ＬＸＧＷクリアーゴシック
+# LXGW Clear Gothic / 霞鹜晰黑 / 霞鶩晰黑 / ＬＸＧＷクリアゴシック
 A Chinese font derived from IPAex Gothic. 一款衍生于 [IPAex 黑体](https://ipafont.ipa.go.jp/old/ipafont/download.html) 的中文字体。
 
 ## 项目简介
