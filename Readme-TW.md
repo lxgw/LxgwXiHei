@@ -1,3 +1,5 @@
+# LXGW Clear Gothic / 霞鶩晰黑 / 霞鹜晰黑 / ＬＸＧＷクリアゴシック
+A Chinese font derived from IPAex Gothic. 一款衍生於 [IPAex 黑體](https://ipafont.ipa.go.jp/old/ipafont/download.html) 的中文字型。
 
 ## 項目簡介
 2009 年，日本 [IPA](http://www.ipa.go.jp/) 以符合 Open Source Initiative 開源定義的「IPA 開放字型授權條款」，發佈兩款「IPA 字型」，包括 [「IPA 明體（IPA 明朝）」及「IPA 黑體（IPA ゴシック）」](https://ipafont.ipa.go.jp/old/ipafont/download.html)。字型衍生自林隆男（Takao Hayashi）所設計的兩款字型：[TypeBank 公司](https://www.typebank.co.jp/)的「TB 明體」和「TB 黑體」。字型包含的日本常用的字元，供日本使用者使用。
