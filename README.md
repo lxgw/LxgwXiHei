@@ -22,6 +22,7 @@ A Chinese font derived from IPAex Gothic. 一款衍生于 [IPAex 黑体](https:/
 ## 更新日志
 
 [点击此处](https://github.com/lxgw/LxgwClearGothic/blob/main/History.md) 查看更新日志。
+
 更新日志截至 v0.205 版本，此后的更新记录请参阅 [Release](https://github.com/lxgw/LxgwClearGothic/releases/) 页面。
 
 ## 字体预览
