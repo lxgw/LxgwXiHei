@@ -22,6 +22,7 @@ A Chinese font derived from IPAex Gothic. 一款衍生于 [IPAex 黑体](https:/
 ## 更新日志
 
 [点击此处](https://github.com/lxgw/LxgwClearGothic/blob/main/History.md) 查看更新日志。
+更新日志截至 v0.205 版本，此后的更新记录请参阅 [Release](https://github.com/lxgw/LxgwClearGothic/releases/) 页面。
 
 ## 字体预览
 ### 概览
@@ -32,7 +33,7 @@ A Chinese font derived from IPAex Gothic. 一款衍生于 [IPAex 黑体](https:/
 ![sai7tA.png](https://s3.ax1x.com/2021/01/14/sai7tA.png)
 
 ## 字体下载
-1. 点击【Clone or download】->【Download ZIP】下载 ZIP 格式压缩包，或者在文件列表中选择想要的字体文件进行下载。
+1. 进入 [Release](https://github.com/lxgw/LxgwClearGothic/releases/) 页面下载。
 2. 进入 [猫啃网](https://www.maoken.com/freefonts/8781.html) 进行下载。
 
 ## 注意事项
