@@ -21,6 +21,8 @@ A Chinese font derived from IPAex Gothic. 一款衍生於 [IPAex 黑體](https:/
 
 [點擊此處](https://github.com/lxgw/LxgwClearGothic/blob/main/History.md) 查看更新日誌。
 
+更新日誌截至 v0.205 版本，此後的更新記錄請參閱 [Release](https://github.com/lxgw/LxgwClearGothic/releases/) 頁面。
+
 ## 字型預覽
 ### 概覽
 ![saiTkd.png](https://s3.ax1x.com/2021/01/14/saiTkd.png)
@@ -30,7 +32,7 @@ A Chinese font derived from IPAex Gothic. 一款衍生於 [IPAex 黑體](https:/
 ![sai7tA.png](https://s3.ax1x.com/2021/01/14/sai7tA.png)
 
 ## 字型下載
-1. 點擊【Clone or download】->【Download ZIP】下載 ZIP 格式壓縮包，或者在檔列表中選擇想要的字型檔進行下載。
+1. 進入 [Release](https://github.com/lxgw/LxgwClearGothic/releases/) 頁面下載。
 2. 進入 [貓啃網](https://www.maoken.com/freefonts/8781.html) 進行下載。
 
 ## 注意事項
