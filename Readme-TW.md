@@ -1,5 +1,5 @@
 > [!NOTE]
-> 本項目將於近期重啓，並將會發佈「霞鶩緻宋」。原有「霞鶩（傳承）晰黑」推倒重來，放置於 Legacy 分支。[Main 分支](https://github.com/lxgw/LxgwXiHei/blob/main)將用於「霞鶩晰黑」後續更新維護。
+> 本項目將於近期重啓，並將會發佈「霞鶩緻宋」。原有「霞鶩（傳承）晰黑」推倒重來，放置於 Legacy 分支。[Main 分支](https://github.com/lxgw/LxgwXiHei/tree/main)將用於「霞鶩晰黑」後續更新維護。
 
 # LXGW Trad Clear Gothic / 霞鶩傳承晰黑 / 霞鹜传承晰黑 / ＬＸＧＷクリアゴシック
 A Chinese font derived from IPAex Gothic. 一款衍生於 [IPAex 黑體](https://ipafont.ipa.go.jp/old/ipafont/download.html) 的中文字型。
