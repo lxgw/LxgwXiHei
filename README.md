@@ -4,7 +4,7 @@
 # LXGW Trad Clear Gothic / 霞鹜传承晰黑 / 霞鶩傳承晰黑 / ＬＸＧＷクリアゴシック
 A Chinese font derived from IPAex Gothic. 一款衍生于 [IPAex 黑体](https://ipafont.ipa.go.jp/old/ipafont/download.html) 的中文字体。
 
-[繁體中文](https://github.com/lxgw/LxgwClearGothic/blob/legacy/Readme-TW.md)
+[繁體中文](Readme-TW.md)
 
 ## 项目简介
 2009 年，日本 [IPA](http://www.ipa.go.jp/) 以符合 Open Source Initiative 开源定义的「IPA 开放字型授权条款」，发布两款「IPA 字体」，包括 [「IPA 明体（IPA 明朝）」及「IPA 黑体（IPA ゴシック）」](https://ipafont.ipa.go.jp/old/ipafont/download.html)。字体衍生自林隆男（Takao Hayashi）所设计的两款字体：[TypeBank 公司](https://www.typebank.co.jp/)的「TB 明体」和「TB 黑体」。字体包含的日本常用的字符，供日本用户使用。
@@ -24,7 +24,7 @@ A Chinese font derived from IPAex Gothic. 一款衍生于 [IPAex 黑体](https:/
 
 ## 更新日志
 
-[点击此处](https://github.com/lxgw/LxgwClearGothic/blob/legacy/History.md) 查看更新日志。
+[点击此处](History.md) 查看更新日志。
 
 更新日志截至 v0.205 版本，此后的更新记录请参阅 [Release](https://github.com/lxgw/LxgwClearGothic/releases/) 页面。
 
