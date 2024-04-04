@@ -28,8 +28,8 @@ A Chinese font derived from IPAex Gothic. 一款衍生於「IPAex ゴシック�
 ### 後續增字計劃？
 鑒於 IICore 覆蓋範圍有限，本字型計劃後續增補「IPAex ゴシック」所包含的 JIS 第 1～4 級別漢字，另外會考慮增加[「jf 7000 當務字集」](https://justfont.com/jf7000)所收字、[《常用香港外字表》](https://github.com/ichitenfont/suppchara)收錄的常用及次常用字等。並未考慮與「霞鶩新晰黑」所收字彙看齊。
 
-## 獲取
-進入 [Releases](https://github.com/lxgw/LxgwXiHei/releases) 頁面下載。
+## 獲取字型
+進入 [Releases](https://github.com/lxgw/LxgwXiHei/releases) 頁面下載 TTF 格式字型檔案。
 
 ## 授權資訊
 - 本字型在 IPA 所開發並發佈的 [IPAex ゴシック](https://moji.or.jp/ipafont/) 基礎上衍生，依照 [IPA開放字型授權條款 第1.0版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 授權。 使用本字型時，請遵從[「IPA開放字型授權條款 第1.0版」](LICENSE_CHT.md)（[IPA Font License 1.0](LICENSE.md#ipa-font-license-agreement-v10)， [IPAフォントライセンスv1.0](LICENSE.md)）之規定。
