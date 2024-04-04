@@ -38,7 +38,8 @@ A Chinese font derived from IPAex Gothic. 一款衍生於「IPAex ゴシック�
 - 有關 IPA Font License 1.0 的其他常見問題，請參閱 [FAQ（日語）](https://moji.or.jp/ipafont/faq/)，需自備翻譯工具。
 - 「IPA字型（IPA Font，IPAフォント）」為日本「獨立行政法人情報處理推進機構」（簡稱「IPA」）的註冊商標。
 
-## 相關資料
+## 相關資料與工具
+### 相關資料
 - [原始授權字型 IPA Font](https://moji.or.jp/ipafont/)
 - [秋空黑體](https://github.com/ChiuMing-Neko/ChiuKongGothic)
 - [京華老宋體](https://zhuanlan.zhihu.com/p/637491623?utm_id=0)及[匯文明朝體](https://zhuanlan.zhihu.com/p/344103391)
@@ -53,3 +54,6 @@ A Chinese font derived from IPAex Gothic. 一款衍生於「IPAex ゴシック�
 - [共通中文界面](https://www.ccli.gov.hk/tc/iicore/)
 - [書同文漢字網 IICore 兩岸四地校對平臺](https://hanzi.unihan.com.cn/IICoreExt)
 - [IICore 字表（TXT 格式）](https://github.com/NightFurySL2001/CJK-character-count/blob/master/iicore-han.txt)
+### 相關工具
+- [漢文博士](https://www.cnblogs.com/hanbox)
+- [字統網](https://zi.tools/)
