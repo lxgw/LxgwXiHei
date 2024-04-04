@@ -1,7 +1,7 @@
 # LXGW XiHei / 霞鶩晰黑
 *原名：LXGW (Trad) Clear Gothic / 霞鶩（傳承）晰黑*
 
-A Chinese font derived from IPAex Gothic. 一款衍生於[「IPAex ゴシック」](https://moji.or.jp/ipafont/)的中文字型。
+A Chinese font derived from IPAex Gothic. 一款衍生於「IPAex ゴシック」的中文字型。
 
 [![最新版](https://img.shields.io/github/release/lxgw/LxgwXiHei?style=flat-square)](https://github.com/lxgw/LxgwXiHei/releases/latest)
 
