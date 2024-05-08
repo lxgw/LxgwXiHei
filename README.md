@@ -17,6 +17,9 @@ A Chinese font derived from IPAex Gothic. 一款衍生於「IPAex ゴシック�
 - **Classic（CL）版：** 參考早期鉛字印刷字形常見寫法，回歸舊式印刷字形，合併一部分「源規格分離」原則下分化的異碼字。
 - **Modern（MN）版：** 採用兼顧當代慣用筆形的折中印刷字形（非楷化字形），嚴格遵循「源規格分離」原則。
 
+![](./documentation/images/xh-compare-1.png)
+![](./documentation/images/xh-compare-2.png)
+
 詳細的維護計劃請參閱：[《霞鶩晰黑》重生及《霞鶩緻宋》維護計劃](documentation/plan.md)。
 
 ## 收字情況
