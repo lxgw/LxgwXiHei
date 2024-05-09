@@ -8,7 +8,7 @@ A Chinese font derived from IPAex Gothic. 一款衍生於「IPAex ゴシック�
 ## 項目介紹
 2009 年，日本「獨立行政法人情報處理推進機構」（IPA）將「IPA 明朝」和「IPA ゴシック」兩款字型按照 IPA Font License 開源發佈。這兩款字型分別衍生自 TypeBank 公司出品的、由林隆男（Takao Hayashi）設計的[「TB 明朝」](https://www.typebank.co.jp/fontfamily/tbmincho/)和[「TB ゴシック」](https://www.typebank.co.jp/fontfamily/tbgothic/)。後經多年持續修訂，兩款字型擴充成[「IPAex 明朝」「IPAex ゴシック」](https://moji.or.jp/ipafont/)，包含 JIS 第一～第四水準的字符。而[「IPAmj 明朝」](https://moji.or.jp/mojikiban/font/)是對「IPAex 明朝」的進一步擴充，包含了「文字情報基盤」所涵蓋的漢字及其諸多 IVD 變體。
 
-本項目「霞鶩晰黑」爲「IPAex ゴシック」的衍生字型項目，在原始字型的基礎上，利用原有的部件和筆形，增補原始字型未包含的字，並對原有的部分漢字按照舊式印刷常見字形進行調整。此外，簡化了一些部件的出腳（如「枸」「間」「陶」「崗」等字中「口」「日」「缶」「山」部件的出腳），使字形更加簡約。
+本項目「霞鶩晰黑」爲「IPAex ゴシック」的衍生字型項目，在原始字型的基礎上，利用原有的部件和筆形，增補原始字型未包含的字，並對原有的部分漢字按照舊式印刷常見字形進行調整。此外，簡化了一些部件的出腳（如「枸」「間」「陶」「崗」等字中「口」「日」「缶」「山」部件的出腳），使字形更加簡約。除此之外，重做了希臘字母和西里爾字母，與原字型拉丁字母部分風格一致；新增對越南語拉丁字的支持。符號方面，支持易經八卦和六十四卦符號、太玄經八十一卦符號、麻將符號、中國象棋符號、算籌數字、「正」字計數等特殊符號。
 
 2020 年末，本項目創建，以一點字坊「傳承字形標準化文件」爲主要參考，對「IPAex ゴシック」進行改造（詳見 [legacy 分支](https://github.com/lxgw/LxgwXiHei/blob/legacy/Readme-TW.md)）。後由於傳承字形部件規則的複雜性，以及時間原因，本項目曾於 2021 年 7 月放棄維護並歸檔。由於近來[「霞鶩新晰黑」](https://github.com/lxgw/LxgwNeoXiHei)和[「霞鶩新緻宋」](https://github.com/lxgw/LxgwNeoZhiSong)的發佈和持續完善，2024 年春，本人決定重啓該項目，並創建新項目[「霞鶩緻宋」](https://github.com/lxgw/LxgwZhiSong)，在「霞鶩新晰黑／新緻宋」基礎上回歸舊字形寫法，原有「霞鶩晰黑」推倒重來。
 
