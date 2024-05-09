@@ -15,7 +15,7 @@ A Chinese font derived from IPAex Gothic. 一款衍生於「IPAex ゴシック�
 ## 總體計劃
 本字型計劃發佈兩種不同字形版本。
 - **Classic（CL）版：** 參考早期鉛字印刷字形常見寫法，回歸舊式印刷字形，合併一部分「源規格分離」原則下分化的異碼字。
-- **Modern（MN）版：** 採用兼顧當代慣用筆形的折中印刷字形（非楷化字形），嚴格遵循「源規格分離」原則。
+- **Modern（MN）版：** 採用兼顧當代慣用部件寫法的折中印刷字形（非楷化字形），嚴格遵循「源規格分離」原則。
 
 ![](./documentation/images/xh-compare-1.png)
 ![](./documentation/images/xh-compare-2.png)
