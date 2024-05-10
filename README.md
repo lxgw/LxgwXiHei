@@ -20,6 +20,7 @@ A Chinese font derived from IPAex Gothic. 一款衍生於「IPAex ゴシック�
 ![](./documentation/images/xh-compare-1.png)
 ![](./documentation/images/xh-compare-2.png)
 ![](./documentation/images/xh-compare-3.png)
+![](./documentation/images/xh-compare-4.png)
 
 詳細的維護計劃請參閱：[《霞鶩晰黑》重生及《霞鶩緻宋》維護計劃](documentation/plan.md)。
 
