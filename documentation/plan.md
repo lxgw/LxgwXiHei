@@ -216,6 +216,7 @@
 - GB/T 2312-1980
 ### 仍在觀望中
 - 通用規範漢字表（及對應繁體）
+- 常用香港外字表（6、ㄆ）
 ## 相關資料
 - [原始授權字型 IPA Font](https://moji.or.jp/ipafont/)
 - [秋空黑體](https://github.com/ChiuMing-Neko/ChiuKongGothic)
