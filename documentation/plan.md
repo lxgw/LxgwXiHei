@@ -216,8 +216,9 @@
 ### 較低優先級
 - GB/T 12345-1990
 - GB/T 2312-1980
+- 通用規範漢字表 第二級（及對應繁體）
 ### 仍在觀望中
-- 通用規範漢字表（及對應繁體）
+- 通用規範漢字表 第三級（及對應繁體）
 ## 相關資料
 - [原始授權字型 IPA Font](https://moji.or.jp/ipafont/)
 - [秋空黑體](https://github.com/ChiuMing-Neko/ChiuKongGothic)
