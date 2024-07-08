@@ -39,7 +39,8 @@ A Chinese font derived from IPAex Gothic. 一款衍生於「IPAex ゴシック�
 ## 授權資訊
 - 本字型在 IPA 所開發並發佈的 [IPAex ゴシック](https://moji.or.jp/ipafont/) 基礎上衍生，依照 [IPA開放字型授權條款 第1.0版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 授權。 使用本字型時，請遵從[「IPA開放字型授權條款 第1.0版」](LICENSE_CHT.md)（[IPA Font License 1.0](LICENSE.md#ipa-font-license-agreement-v10)， [IPAフォントライセンスv1.0](LICENSE.md)）之規定。
 - 但凡有任何人使用、複製、修改、分發本字型，或對本字型進行任何符合 IPA Font License 1.0 規定的行為，使用、下載或行使合約規定權利之接受方，亦視為同意遵守 IPA Font License 1.0 的一切規定。
-- 根據 IPA Font License 1.0 有關條款，後續衍生不可使用原始授權程序的名稱（包括程式名、檔案名、字型名），且須繼承原有授權條款（故 IPA Font License 1.0 與 SIL OFL 1.1 不相容）。
+- 根據 IPA Font License 1.0 有關條款，後續衍生不可使用原始授權程式的名稱（包括程式名、檔案名、字型名），且須繼承原有授權條款（故 IPA Font License 1.0 與 SIL OFL 1.1 不相容）。
+- 如果您要將本字型替換回 IPA 原始授權字型，請在 [IPA 字型下載頁面](https//moji.or.jp/ipafont/ipafontdownload)下載原始授權字型檔案。
 - 有關 IPA Font License 1.0 的其他常見問題，請參閱 [FAQ（日語）](https://moji.or.jp/ipafont/faq/)，需自備翻譯工具。
 - 「IPA字型（IPA Font，IPAフォント）」為日本「獨立行政法人情報處理推進機構」（簡稱「IPA」）的註冊商標。
 
