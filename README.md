@@ -64,7 +64,7 @@ A Chinese font derived from IPAex Gothic. 一款衍生於「IPAex ゴシック�
 - [漢文博士](https://www.cnblogs.com/hanbox)
 - [字統網](https://zi.tools/)
 ## 更多「霞鶩」系列字型
-### 與本項目有關聯的字型
+### 「晰緻尚銘」系列
 - [霞鶩緻宋 / LXGW ZhiSong](https://github.com/lxgw/LxgwZhiSong)
 - [霞鶩新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
 - [霞鶩新緻宋 / LXGW Neo ZhiSong](https://github.com/lxgw/LxgwNeoZhiSong)
