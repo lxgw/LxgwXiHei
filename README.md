@@ -37,12 +37,16 @@ A Chinese font derived from IPAex Gothic. 一款衍生於「IPAex ゴシック�
 進入 [Releases](https://github.com/lxgw/LxgwXiHei/releases) 頁面下載 TTF 格式字型檔案。或者在 [藍奏雲（密碼 g3p4）](https://lxgw.lanzouv.com/b02seu58wb) 或 [永碩網盤](http://lxgw.ysepan.com/) 下載。
 
 ## 授權資訊
-- 本字型在 IPA 所開發並發佈的 [IPAex ゴシック](https://moji.or.jp/ipafont/) 基礎上衍生，依照 [IPA開放字型授權條款 第1.0版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 授權。 使用本字型時，請遵從[「IPA開放字型授權條款 第1.0版」](LICENSE_CHT.md)（[IPA Font License 1.0](LICENSE.md#ipa-font-license-agreement-v10)， [IPAフォントライセンスv1.0](LICENSE.md)）之規定。
-- 您可以將本字型用於數位文檔、影片內容、出版物設計以及其他各種設計用途，包括商業和非商業用途​；也可在本字型基礎上繼續改作衍生，惟衍生字型名稱（包括程式名、檔案名、字型名）不得包含「IPA」字樣，且衍生字型須繼承相同授權許可（故 IPA 字型授權許可與 SIL OFL 不相容）。
+- 本字型在 IPA 所開發並發佈的 [IPAex ゴシック](https://moji.or.jp/ipafont/) 基礎上衍生，依照 [IPA 開放字型授權條款 1.0 版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 授權。  
+  使用本字型時，請遵從[「IPA 開放字型授權條款 1.0 版」](LICENSE_CHT.md)（[IPA Font License 1.0](LICENSE.md#ipa-font-license-agreement-v10)， [IPAフォントライセンスv1.0](LICENSE.md)）之規定。
+- 您可以將本字型用於印刷品、數位文檔、影片內容、海報廣告、包裝、出版物設計以及其他各種設計用途，包括商業和非商業用途​；  
+  也可在本字型基礎上繼續改作衍生，惟衍生字型名稱（包括程式名、檔案名、字型名）不得包含「IPA」字樣，且衍生字型須繼承相同授權許可（故 IPA 字型授權許可與 SIL OFL 不相容）。
 - 根據 IPA Font License 1.0 有關條款，在沒有郵費、存儲媒介費用和手續費的情況下，須免費提供字型檔，不得將字型檔單獨售賣。
-- 如果您要將本字型替換回 IPA 原始授權字型，請從 [IPA 字型下載頁面](https://moji.or.jp/ipafont/ipafontdownload)獲取原始授權字型檔案。對於涉及字型檔再分發的嵌入式應用（如應用程式、硬體裝置、網頁等嵌入），[請點擊此處](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/embedding_instructions.md)（跳轉到「霞鶩新晰黑」repo）。
+- 如果您要將本字型替換回 IPA 原始授權字型，請從 [IPA 字型下載頁面](https://moji.or.jp/ipafont/ipafontdownload)獲取原始授權字型「IPAexゴシック」。  
+  對於涉及字型檔再分發的嵌入式應用（如應用程式、硬體裝置、網頁等嵌入），[請點擊此處](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/embedding_instructions.md)（跳轉到「霞鶩新晰黑」repo）。
 - 有關 IPA Font License 1.0 的其他常見問題，請參閱 [FAQ（日語）](https://moji.or.jp/ipafont/faq/)，需自備翻譯工具。
-- 但凡有任何人使用、複製、修改、分發本字型，或對本字型進行任何符合 IPA Font License 1.0 規定的行為，使用、下載或行使合約規定權利之接受方，亦視為同意遵守 IPA Font License 1.0 的一切規定。「IPA字型（IPA Font，IPAフォント）」為日本「獨立行政法人情報處理推進機構」（簡稱「IPA」）的註冊商標。
+- 但凡有任何人使用、複製、修改、分發本字型，或對本字型進行任何符合 IPA Font License 1.0 規定的行為，使用、下載或行使合約規定權利之接受方，亦視為同意遵守 IPA Font License 1.0 的一切規定。  
+  「IPA字型（IPA Font，IPAフォント）」為日本「獨立行政法人情報處理推進機構」（簡稱「IPA」）的註冊商標。
 
 ## 相關資料與工具
 ### 相關資料
