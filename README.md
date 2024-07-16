@@ -46,7 +46,7 @@ A Chinese font derived from IPAex Gothic. 一款衍生於「IPAex ゴシック�
   對於涉及字型檔再分發的嵌入式應用（如應用程式、硬體裝置、網頁等嵌入），[請點擊此處](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/embedding_instructions.md)（跳轉到「霞鶩新晰黑」repo）。
 - 有關 IPA Font License 1.0 的其他常見問題，請參閱 [FAQ（日語）](https://moji.or.jp/ipafont/faq/)，需自備翻譯工具。
 - 但凡有任何人使用、複製、修改、分發本字型，或對本字型進行任何符合 IPA Font License 1.0 規定的行為，使用、下載或行使合約規定權利之接受方，亦視為同意遵守 IPA Font License 1.0 的一切規定。  
-  「IPA字型（IPA Font，IPAフォント）」為日本「獨立行政法人情報處理推進機構」（簡稱「IPA」）的註冊商標。
+  「IPA字型（IPA Font，IPAフォント）」為日本「獨立行政法人　情報處理推進機構」（The Information-Technology Promotion Agency, “IPA”）的註冊商標。
 
 ## 相關資料與工具
 ### 相關資料
