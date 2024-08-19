@@ -31,7 +31,7 @@ A Chinese font derived from IPAex Gothic. 一款衍生於「IPAex ゴシック�
 
 目前「霞鶩晰黑」包含 IICore 所收錄的 9810 個常用漢字，以及原始授權字型「IPAex ゴシック」所包含的 JIS 第 1～4 級別漢字，[「jf 7000 當務字集」](https://justfont.com/jf7000)基本包、臺灣命名、粵語包所收字，和[《常用香港外字表》](https://github.com/ichitenfont/suppchara)收錄的A～C、1～5、ㄅ級外字等。
 ### 後續增字計劃？
-本字型後續會考慮補全「五大碼」（BIG5）所收錄的所有漢字。不考慮與「霞鶩新晰黑」所收字彙看齊。
+本字型後續會考慮補全 BIG5 所收錄的所有漢字。不考慮與「霞鶩新晰黑」所收字彙看齊。
 
 ## 獲取字型
 進入 [Releases](https://github.com/lxgw/LxgwXiHei/releases) 頁面下載 TTF 格式字型檔案。或者在 [藍奏雲（密碼 g3p4）](https://lxgw.lanzouv.com/b02seu58wb) 或 [永碩網盤](http://lxgw.ysepan.com/) 下載。
