@@ -43,7 +43,7 @@ A Chinese font derived from IPAex Gothic. 一款衍生於「IPAex ゴシック�
   也可在本字型基礎上繼續改作衍生，惟衍生字型名稱（包括程式名、檔案名、字型名）不得包含「IPA」字樣，且衍生字型須繼承相同授權許可（IPA Font License 1.0 與 SIL OFL 1.1 互不相容）。
 - 根據 IPA Font License 1.0 有關條款，在沒有郵費、存儲媒介費用和手續費的情況下，須免費提供字型檔，不得將字型檔單獨售賣。
 - 如果您要將本字型替換回 IPA 原始授權字型，請從 [IPA 字型下載頁面](https://moji.or.jp/ipafont/ipafontdownload)獲取原始授權字型「IPAexゴシック」。  
-  對於涉及字型檔再分發的嵌入式應用（如應用程式、硬體裝置、網頁等嵌入），需要滿足 IPA 許可中針對衍生字型再分發的限制條件，[請點擊此處](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/embedding_instructions.md)瞭解（跳轉到「霞鶩新晰黑」repo，需自備簡繁轉換）。
+  對於涉及字型檔再分發的嵌入式應用（如應用程式、硬體裝置、網頁等嵌入），需要滿足 IPA 許可中針對衍生字型再分發的限制條件，[請點擊此處](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/embedding_instructions.md)瞭解（跳轉到「霞鶩新晰黑」repo，需自備簡繁轉換工具）。
 - 有關 IPA Font License 1.0 的其他常見問題，請參閱 [FAQ（日語）](https://moji.or.jp/ipafont/faq/)，需自備翻譯工具。
 - 但凡有任何人使用、複製、修改、分發本字型，或對本字型進行任何符合 IPA Font License 1.0 規定的行為，使用、下載或行使合約規定權利之接受方，亦視為同意遵守 IPA Font License 1.0 的一切規定。  
   「IPA字型（IPA Font，IPAフォント）」為日本「獨立行政法人　情報處理推進機構」（The Information-Technology Promotion Agency, “IPA”）的註冊商標。
