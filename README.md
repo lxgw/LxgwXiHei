@@ -12,7 +12,7 @@ A Chinese font derived from IPAex Gothic. 一款衍生於「IPAex ゴシック�
 
 2020 年末，本項目創建，以一點字坊「傳承字形標準化文件」爲主要參考，對「IPAex ゴシック」進行改造（詳見 [legacy 分支](https://github.com/lxgw/LxgwXiHei/blob/legacy/Readme-TW.md)）。後由於傳承字形部件規則的複雜性，以及時間原因，本項目曾於 2021 年 7 月放棄維護並歸檔。由於近來[「霞鶩新晰黑」](https://github.com/lxgw/LxgwNeoXiHei)和[「霞鶩新緻宋」](https://github.com/lxgw/LxgwNeoZhiSong)的發佈和持續完善，2024 年春，本人決定重啓該項目，並創建新項目[「霞鶩緻宋」](https://github.com/lxgw/LxgwZhiSong)，在「霞鶩新晰黑／新緻宋」基礎上回歸舊字形寫法，原有「霞鶩晰黑」推倒重來。
 
-「霞鶩晰黑」支援 Unicode 變體序列（Unicode Variation Sequences, UVS），用於標點符號切換，[點擊此處查看對應規則](documentation/uvs.pdf)。
+「霞鶩晰黑」支援 Unicode 變體序列（Unicode Variation Sequences, UVS），用於標點符號寬度和位置的選擇，[點擊此處查看對應規則](documentation/uvs.pdf)。
 
 ## 總體計劃
 本字型計劃發佈兩種不同字形版本。
