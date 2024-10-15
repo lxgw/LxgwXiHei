@@ -83,6 +83,6 @@ A Chinese font derived from IPAex Gothic. 一款衍生於「IPAex ゴシック�
 - [霞鶩文楷 / LXGW WenKai](https://github.com/lxgw/LxgwWenKai) | [Lite](https://github.com/lxgw/LxgwWenKai-Lite)
 ### 其他
 - [霞鶩漫黑 / LXGW Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic)
-- [霞鶩臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai) 停止維護
+- [霞鶩臻楷 / LXGW ZhenKai](https://github.com/lxgw/LxgwZhenKai)
 - [小賴字體 / Xiaolai](https://github.com/lxgw/kose-font)
 - [悠哉字體 / Yozai](https://github.com/lxgw/yozai-font)
