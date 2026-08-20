@@ -8,7 +8,7 @@
 >
 > 日常疊代已放緩，但**不代表專案終止**。新字元的增補和重大調整將依據 Unicode 標準演進及實際使用需求謹慎評估後進行，但**不承諾即時回應或採納**。
 >
-> 本專案衍生自 IPA 字型，遵循 IPA Font License 1.0。若計劃將本專案字型用於嵌入式用途，請務必仔細閱讀 [IPA Font License 1.0](https://moji.or.jp/ipafont/license/) 條款，並參考[「嵌入須知」](https://github.com/lxgw/lxgw/blob/main/documents/xizhi_embedding_instructions.md)自行評估合規成本（該文件為簡體中文，請自備簡繁轉換工具）。
+> 本專案衍生自 IPA 字型，遵循 IPA Font License 1.0。若計劃將本專案字型用於嵌入式用途，請務必仔細閱讀 [IPA Font License 1.0](./LICENSE.md) 條款，並參考[「嵌入須知」](https://github.com/lxgw/lxgw/blob/main/documents/xizhi_embedding_instructions.md)自行評估合規成本（該文件為簡體中文，請自備簡繁轉換工具）。
 
 # LXGW XiHei / 霞鶩晰黑 / LXGW 晰ゴシック
 *原名：LXGW (Trad) Clear Gothic / 霞鶩（傳承）晰黑*
