@@ -101,7 +101,11 @@ A Chinese font derived from IPAex Gothic. 一款衍生於「IPAex ゴシック�
 </a>
 </div>
 
-## 更多「霞鶩」系列字型
+<h2>
+<img alt="霞鹜开源字体" src="https://raw.githubusercontent.com/lxgw/lxgw/refs/heads/main/images/osf-logo/lxgwosf-sc-day.svg#gh-light-mode-only" width = "512" height = "128"/>
+<img alt="霞鹜开源字体" src="https://raw.githubusercontent.com/lxgw/lxgw/refs/heads/main/images/osf-logo/lxgwosf-sc-night.svg#gh-dark-mode-only" width = "512" height = "128"/>
+</h2>
+
 ### 「晰緻尚銘」系列
 - **霞鶩晰黑 / LXGW XiHei**
 - [霞鶩緻宋 / LXGW ZhiSong](https://github.com/lxgw/LxgwZhiSong)
