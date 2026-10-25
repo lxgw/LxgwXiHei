@@ -60,7 +60,7 @@ A Chinese font derived from IPAex Gothic. 一款衍生於「IPAex ゴシック�
 ## 獲取字型
 1. 進入 [Releases](https://github.com/lxgw/LxgwXiHei/releases) 頁面下載 TTF 格式字型檔案。或者在 [藍奏雲（密碼 g3p4）](https://lxgw.lanzouv.com/b02seu58wb) 或 [永碩網盤](http://lxgw.ysepan.com/) 下載。
 2. 本 repo 中 [projects](./projects/) 文件夾提供 FCP 格式的字型工程檔案，便於二次開發字型。需要 15.0.0.3048 及更高版本的 FontCreator。
-3. 另提供 Windows 內置「細明體」度量相容版本[「Ｂ５晰黑體」](https://github.com/lxgw/B5XiZhi)，採用 MN 字形、BIG5-Eten 字符集。
+3. 另提供 Windows 內置「細明體」度量相容版本[「Ｂ５晰黑體」](https://github.com/lxgw/B5XiZhi)，採用 MN 字形、BIG5-Eten 字符集；另有適用于程式碼顯示的等寬版[「晰黑 Code / XiHei Code」](https://github.com/lxgw/NeoXiHei-Code)，同樣採用 MN 字形。
 
 ## 授權資訊
 - 本字型在 IPA 所開發並發佈的 [IPAex ゴシック](https://moji.or.jp/ipafont/) 基礎上衍生，依照 [IPA 開放字型授權條款 1.0 版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 授權。  
